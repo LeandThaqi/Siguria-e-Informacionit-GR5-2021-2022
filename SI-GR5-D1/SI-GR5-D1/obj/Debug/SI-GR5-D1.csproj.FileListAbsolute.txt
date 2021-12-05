@@ -1,0 +1,6 @@
+C:\Users\leand\source\repos\SI-GR5-D1\SI-GR5-D1\obj\Debug\SI-GR5-D1.csprojAssemblyReference.cache
+C:\Users\leand\source\repos\SI-GR5-D1\SI-GR5-D1\bin\Debug\SI-GR5-D1.exe.config
+C:\Users\leand\source\repos\SI-GR5-D1\SI-GR5-D1\bin\Debug\SI-GR5-D1.exe
+C:\Users\leand\source\repos\SI-GR5-D1\SI-GR5-D1\bin\Debug\SI-GR5-D1.pdb
+C:\Users\leand\source\repos\SI-GR5-D1\SI-GR5-D1\obj\Debug\SI-GR5-D1.exe
+C:\Users\leand\source\repos\SI-GR5-D1\SI-GR5-D1\obj\Debug\SI-GR5-D1.pdb
